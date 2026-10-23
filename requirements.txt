@@ -1,0 +1,8 @@
+# Streamlit Community Cloud runtime; select Python 3.12 in Advanced settings.
+# Pinned to the verified project versions. No API keys or external services needed.
+streamlit==1.66.1
+numpy==2.5.4
+pandas==3.1.0
+plotly==6.9.0
+scipy==1.18.1
+Jinja2==3.1.6

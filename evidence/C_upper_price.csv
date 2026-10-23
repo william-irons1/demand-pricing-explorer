@@ -1,0 +1,5 @@
+investigation,scenario,model,p0,Q0,e,c,F,price_min,price_max,price,quantity,revenue,variable_cost,total_cost,contribution,profit,optimal_from,optimal_to,boundary,price_change,profit_change
+C_upper_price,upper=15,linear,10.0,100.0,2.0,6.0,0.0,1.0,15.0,10.5,90.0,945.0,540.0,540.0,405.0,405.0,10.5,10.5,interior,0.0,0.0
+C_upper_price,upper=15,constant_elasticity,10.0,100.0,2.0,6.0,0.0,1.0,15.0,12.0,69.44444444444446,833.3333333333335,416.66666666666674,416.66666666666674,416.66666666666674,416.66666666666674,12.0,12.0,interior,0.0,0.0
+C_upper_price,upper=11,linear,10.0,100.0,2.0,6.0,0.0,1.0,11.0,10.5,90.0,945.0,540.0,540.0,405.0,405.0,10.5,10.5,interior,0.0,0.0
+C_upper_price,upper=11,constant_elasticity,10.0,100.0,2.0,6.0,0.0,1.0,11.0,11.0,82.64462809917354,909.090909090909,495.8677685950413,495.8677685950413,413.2231404958677,413.2231404958677,11.0,11.0,upper_boundary,-1.0,-3.443526170799032
